@@ -1,0 +1,19 @@
+{
+    "name": "Smart Gate",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "powerbrick": "github:kittenbot/pxt-powerbrick#v0.2.5",
+        "makercloud": "github:kittenbot/pxt-makercloud#v0.1.5"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
